@@ -25,7 +25,6 @@ I’m a passionate developer. I enjoy coding, reading, playing sports and writin
 
 ## 📫 How to reach me:
 - **Email**: [auravdhariwan2002@gmail.com](mailto:auravdhariwan2002@gmail.com)
-- 
 ---
 
 > "The only way to do great work is to love what you do." – Steve Jobs
